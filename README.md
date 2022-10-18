@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ainul Hakim
 - 👀 I’m interested in Precision Algiculture
 - 🌱 I’m currently learning Machine Vision, Artificial Inteligent and Robotics
-- 💞️ I’m looking to collaborate for my Final Year Project
+- 💞️ I’m looking to collaborate for my Master Project
 - 📫 You can reach me via email: ainulhakim1999@graduate.utm.my alt. email: ainulhakimfizam@gmail.com
 
 <!---
